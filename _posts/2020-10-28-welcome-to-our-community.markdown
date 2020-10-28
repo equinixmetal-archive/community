@@ -3,6 +3,7 @@ author: "Rain Leander"
 layout: post
 title: "Welcome to Our Community"
 tags: general
+url: 2020-10-28-welcome-to-our-community.markdown
 ---
 
 Bacon ipsum dolor amet tongue kielbasa meatloaf andouille chislic biltong tail jerky capicola kevin. Meatball beef buffalo, tail burgdoggen alcatra pork belly strip steak cupim ribeye t-bone turkey brisket pastrami. Spare ribs kielbasa corned beef, jowl salami chicken shoulder tail prosciutto meatball landjaeger picanha sausage pork belly alcatra. Jerky biltong pork belly pig drumstick cupim pastrami bacon burgdoggen meatball prosciutto jowl shankle.
