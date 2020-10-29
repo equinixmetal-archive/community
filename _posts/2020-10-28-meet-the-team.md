@@ -9,27 +9,27 @@ excerpt_separator: <!--more-->
 
 Meet the team! 
 
-Mark Coleman - Director, Developer Relations
+<ul><li>Mark Coleman - Director, Developer Relations</li>
 
-Thom Crowe - Marketing Manager
-David McKay - Senior Technical Evangelist
-Jeremy Tanner - Senior Technical Evangelist
+<ul><li>Thom Crowe - Marketing Manager</li>
+  <li>David McKay - Senior Technical Evangelist</li>
+  <li>Jeremy Tanner - Senior Technical Evangelist</li></ul>
 <!--more-->
-Alice Sowerby - Senior Product Manager
-Mara Sarabia - Technical Copywriter
-Mo Lawler - Community Manager
-Rain Leander - Developer Advocate
-Eric Rosa - Technical Service Designer
+<ul><li>Alice Sowerby - Senior Product Manager</li>
+  <li>Mara Sarabia - Technical Copywriter</li>
+  <li>Mo Lawler - Community Manager</li>
+  <li>Rain Leander - Developer Advocate</li>
+  <li>Eric Rosa - Technical Service Designer</li></ul>
 
-Dan Finneran - Senior Engineering Manager
-Gianluca Arbezzano - Senior Staff Software Engineer
-Jason DeTiberus - Senior Staff Software Engineer
-Marques Johansson - Principal Engineer
-Joseph Marhee - Ecosystem Engineer
+<ul><li>Dan Finneran - Senior Engineering Manager</li>
+  <li>Gianluca Arbezzano - Senior Staff Software Engineer</li>
+  <li>Jason DeTiberus - Senior Staff Software Engineer</li>
+  <li>Marques Johansson - Principal Engineer</li>
+  <li>Joseph Marhee - Ecosystem Engineer</li></ul>
 
-Sara Davila - Senior Partner Manager
-Shaedon Blackman - Developer Partner Analyst
-Josh Krammes - Partner Marketing Manager
-Ed Vielmetti - Developer Partner Manager
+<ul><li>Sara Davila - Senior Partner Manager</li>
+  <li>Shaedon Blackman - Developer Partner Analyst</li>
+  <li>Josh Krammes - Partner Marketing Manager</li>
+  <li>Ed Vielmetti - Developer Partner Manager</li></ul></li></ul>
 
 We look forward to introducing you to our fantastic team in the coming months!
