@@ -9,7 +9,7 @@ We follow a simple [code of conduct](./CODE_OF_CONDUCT.html). TL;DR be kind.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="./community{{ post.url }}">{{ post.title }}</a>
+      <a href="./{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
