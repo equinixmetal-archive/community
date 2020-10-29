@@ -6,7 +6,6 @@ tags: streaming
 url: 2020-09-25-rawkodes-live-update.html
 excerpt_separator: <!--more-->
 ---
-# Rawkode's Live Update 29 October
 
 ## This Week
 
