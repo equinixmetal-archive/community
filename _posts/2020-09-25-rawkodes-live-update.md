@@ -17,6 +17,7 @@ This week there were 5 live streams:
 * A Newcomers Guide to Kubernetes with David Simmons (QuestDb)
 * Introduction to Cilium with Ilya Dmitrichenko (Isovalent)
 <!--more-->
+
 ## Next Week
 
 There are 3 streams scheduled.
