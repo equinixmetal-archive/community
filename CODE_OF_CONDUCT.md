@@ -16,7 +16,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to all spaces managed by the Equinix Metal projects. This includes Slack, GitHub, Equinix Metal events, and any other forums created by the project team which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing EMAIL ADDRESS. For more details please see our [Reporting Guidelines](reporting-guidelines.md).
+If you believe someone is violating the code of conduct, we ask that you report it by emailing EMAIL ADDRESS. For more details please see our [Reporting Guidelines](reporting-guidelines.html).
 
 * **Be friendly and patient.**
 
@@ -84,7 +84,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 ### What if your report concerns a possible violation by a working group member?
 If your report concerns a current member of the Code of Conduct working group, you may not feel comfortable sending your report to the group, as all members will see the report.
 
-In that case, you can make a report directly to any or all of the current (vice/co) chairs of the Code of Conduct working group. Their email addresses are listed on the [Code of Conduct Working Group](working-group.md) page. The chairs will follow the usual enforcement process with the other members, but will exclude the member(s) that the report concerns from any discussion or decision making.
+In that case, you can make a report directly to any or all of the current (vice/co) chairs of the Code of Conduct working group. Their email addresses are listed on the [Code of Conduct Working Group](working-group.html) page. The chairs will follow the usual enforcement process with the other members, but will exclude the member(s) that the report concerns from any discussion or decision making.
 
 If your report concerns all current (vice/co) chairs of the working group, please send your report directly to the Equinix Metal Developer Relations leadership team at [EMAIL]() instead.
 
@@ -93,12 +93,12 @@ If your report concerns all current (vice/co) chairs of the working group, pleas
 Any of the parties directly involved or affected can request reconsideration of the committee’s decision. To make such a request, contact the Equinix Metal Developer Relations leadership team at [EMAIL]() with your request and motivation and the Equinix Metal Developer Relations leadership group will review the case.
 
 ## Working Group
-The Code of Conduct working group deals with violations in the Equinix Metal [Code of Conduct](CODE_OF_CONDUCT.md).
+The Code of Conduct working group deals with violations in the Equinix Metal [Code of Conduct](CODE_OF_CONDUCT.html).
 
 Working Group Members:
 Mo Lawler, Co-Chair [(mo [at] equinix [dot] com)]()
 Rain Leander, Co-Chair [(rain [at] eu [dot] equinix [dot] com)]()
 
-You can contact [EMAIL](). For more details please see the [Reporting Guidelines](reporting-guidelines.md).
+You can contact [EMAIL](). For more details please see the [Reporting Guidelines](reporting-guidelines.html).
 
 [back](./)
