@@ -11,7 +11,7 @@ We follow a simple [code of conduct](./CODE_OF_CONDUCT.html). TL;DR be kind.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href=".{{ post.url }}">{{ post.title }}</a>
+      <h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}
