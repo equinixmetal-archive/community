@@ -2,7 +2,7 @@
 author: "David McKay"
 layout: post
 title: "Rawkode Live Update 30 October 2020"
-tags: general
+tags: streaming
 url: 2020-10-30-rawkode-live-update.html
 excerpt_separator: <!--more-->
 ---
